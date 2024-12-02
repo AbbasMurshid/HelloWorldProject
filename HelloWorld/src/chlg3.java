@@ -7,7 +7,7 @@ public class chlg3 {
         System.out.println("multiply of doubles" + multiply(50.0, 70.30));
 
         System.out.println("Subtraction of Integer " + sub(10, 20));
-        System.out.println("Subtraction of doubles " + sub(10.05, 30.50));
+        System.out.println("Subtraction of doubles " + sub(10.05, 30.50)):
     }
 
     public static int add(int a, int b) {
